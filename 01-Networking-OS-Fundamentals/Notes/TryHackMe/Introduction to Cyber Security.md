@@ -92,3 +92,20 @@
 - **Security lesson:**  
   - Hidden ≠ secure  
   - Sensitive pages must be properly authenticated and protected  
+
+---
+
+### Careers in Cybersecurity
+
+## 🌐 Getting Started in Cybersecurity
+
+- **Approach**: Break learning into smaller areas, focus on what interests you, and practice regularly with hands‑on labs.  
+- **Habit**: Consistent daily learning (e.g., on TryHackMe) builds the skills needed for entry‑level jobs.  
+
+## 🛡️ Career Paths in Cybersecurity
+
+- **Penetration Tester**: Finds and reports exploitable vulnerabilities in systems/products.  
+- **Red Teamer**: Simulates real adversaries, testing defenses and providing feedback from an attacker’s perspective.  
+- **Security Engineer**: Designs, monitors, and maintains security controls, networks, and systems to prevent attacks.  
+
+👉 **Core takeaway:** Start small, practice daily, and build toward a career path that excites you—offensive (pentesting, red teaming) or defensive (engineering, analysis).  
