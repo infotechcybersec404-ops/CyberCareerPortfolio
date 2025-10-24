@@ -5,7 +5,7 @@
 
 - **Networking & OS Fundamentals**
   - Study TCP/IP, OSI model, DNS, DHCP, routing basics.
-  - Practice Linux (you’re already strong here) + Windows admin tasks (Active Directory, Group Policy, PowerShell basics).
+  - Practice Linux + Windows admin tasks (Active Directory, Group Policy, PowerShell basics).
 - **Cert Prep Kickoff**
   - Begin *CompTIA Security+* study (use Professor Messer videos + practice exams).
 - **Hands‑On Labs**
