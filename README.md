@@ -46,9 +46,9 @@ If you’re also transitioning into cybersecurity, I hope this helps you too!
 ### Month 1–2: Lay the Groundwork
 - [x] Study TCP/IP, OSI model, DNS, DHCP basics
 - [x] Practice Linux admin tasks
-- [ ] Practice Windows admin tasks (Active Directory, Group Policy, PowerShell)
+- [x] Practice Windows admin tasks (Active Directory, Group Policy, PowerShell)
 - [x] Begin CompTIA Security+ study
-- [ ] Complete TryHackMe Pre-Security path
+- [x] Complete TryHackMe Pre-Security path
 - [ ] Complete TryHackMe SOC Level 1 path
 - [ ] Publish first study notes/cheat sheet
 
