@@ -110,4 +110,4 @@
 
 👉 **Core takeaway:** Start small, practice daily, and build toward a career path that excites you—offensive (pentesting, red teaming) or defensive (engineering, analysis).  
 
-[Offensive Security Intro](../../Pre%20Secuirty%20Learning%20Path/Introduction%20to%20Cyber%20Security/Offensive%20Security%20Intro.md)
+
